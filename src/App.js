@@ -1,6 +1,6 @@
 import './App.css';
-import AudioPlayer from './AudioPlayer/AudioPlayer';
-import FireBody from './FireBody/FireBody';
+import AudioPlayer from './Components/AudioPlayer/AudioPlayer';
+import FireBody from './Components/FireBody/FireBody';
 
 function App() {
   return (

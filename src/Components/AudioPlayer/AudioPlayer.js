@@ -1,6 +1,6 @@
-import '../AudioPlayer/AudioPlayer.scss'
+import './AudioPlayer.scss'
 import ReactAudioPlayer from 'react-audio-player';
-import song from '../assets/ebm.mp3'
+import song from '../../assets/ebm.mp3'
 
 function AudioPlayer() {
     return (
